@@ -1,0 +1,7 @@
+mghosal p2bomb grade: 48/60
+
+bomb294:
+  Phases Defused:   5
+  Explosions:       4
+  Bomb Score:       48
+
